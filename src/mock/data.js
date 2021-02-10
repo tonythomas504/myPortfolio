@@ -47,21 +47,21 @@ export const projectsData = [
   },
   {
     id: nanoid(),
+    img: 'expenseTracker.jpeg',
+    title: 'Expense Tracker',
+    info: 'I created an expense tracker utiilizing React.js & React Hooks',
+    info2: 'You can add, delete, and see the balance of your expenses',
+    url: 'https://expense-tracker-tony-thomas.netlify.app/',
+    repo: 'https://github.com/tonythomas504/expenseTracker', // if no repo, the button will not show up
+  },
+  {
+    id: nanoid(),
     img: 'GIPHYICON.png',
     title: 'Giphy API Search',
     info: 'I created a Giphy API search applicaiton deployed to Firebase utilizing HTML, CSS, and JS',
     info2: 'Search any word to find a great gif!',
     url: 'https://tt-giphy-api.web.app/',
     repo: 'https://github.com/tonythomas504/api_Challenge2', // if no repo, the button will not show up
-  },
-  {
-    id: nanoid(),
-    img: 'pikachu.jpg',
-    title: 'Pokemon Api',
-    info: 'I created an assortment of Pokemon cards with the Pokemon API utilizing HTML, CSS, and JS',
-    info2: 'Flip the card over and see the pokemon evolve!',
-    url: 'https://tonythomas504.github.io/apiChallenge_1/',
-    repo: 'https://github.com/tonythomas504/apiChallenge_1', // if no repo, the button will not show up
   },
 ];
 

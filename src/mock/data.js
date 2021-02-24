@@ -38,12 +38,11 @@ export const projectsData = [
   },
   {
     id: nanoid(),
-    img: 'VibeCast.jpg',
-    title: 'VibeCast',
-    info: 'VibeCast is a full stack application deployed to utilizing Node.js, TypeScript, React',
-    info2: 'VibeCast enables a user to type out their playlist and post it to the feed.',
-    url: 'http://tt-vibe-cast.herokuapp.com/',
-    repo: 'https://github.com/tonythomas504/RedBadgeClient', // if no repo, the button will not show up
+    img: 'Netflix-new-icon.png',
+    title: 'Netflix-Clone',
+    info: 'A Netflix-Clone built using React.js, TMDBs API, and deployed with Firebase',
+    url: 'https://tt-netflix-clone.web.app/',
+    repo: 'https://github.com/tonythomas504/netflix-clone', // if no repo, the button will not show up
   },
   {
     id: nanoid(),

@@ -22,11 +22,19 @@ export const aboutData = {
   paragraphOne: `Hi I'm Tony Thomas. I'm a multi-talented software engineer, looking for a full stack or front-end role. I completed the Eleven Fifty Academy Full Stack Web Development bootcamp with 500+ hours of real world coding expereince.`,
   paragraphTwo: `Fueled by high energy, endless creativity and need to innovate. Coding is for me. I'm easily inspired and love to follow my fascinations. I'm never satisfied with ideas. Instead I have an almost impulsive need to act on creating them. I'm passionate, love to win, expressive, and love to work in a team environment.`,
   paragraphThree: `I'm married to my beautiful wife Sydney, and we live in Indinapolis with our labradoodle Dexter. In my free time I love to read, workout with my wife, watch movies, play board games, and watch sports.`,
-  resume: 'https://drive.google.com/file/d/1pdvUsnpKwI2eaQzVe9f9PaRaz4iquhQL/view?usp=sharing', // if no resume, the button will not show up
+  resume: 'https://docs.google.com/document/d/1ncpp6tSQ_ApV8iAjIdvHjx4PLiPGWc3ExS0eDEAaKFk/edit?usp=sharing', // if no resume, the button will not show up
 };
 
 // PROJECTS DATA
 export const projectsData = [
+  {
+    id: nanoid(),
+    img: 'Spotify-Logo.png',
+    title: 'Spotify-Clone',
+    info: 'A Spotify-Clone built using React.js, Spotify API, Context API(Redux), Material UI, flexbox, user authentication and deployed with Firebase',
+    url: 'https://tt-spotify-clone.web.app/',
+    repo: 'https://github.com/tonythomas504/spotify-clone', // if no repo, the button will not show up
+  },
   {
     id: nanoid(),
     img: 'Netflix-new-icon.png',

@@ -52,15 +52,15 @@ export const projectsData = [
     url: 'https://nas-movieview-client.herokuapp.com/',
     repo: 'https://github.com/derek101225/blueBadgeClient', // if no repo, the button will not show up
   },
-  {
-    id: nanoid(),
-    img: 'VibeCast.jpg',
-    title: 'VibeCast',
-    info: 'VibeCast is a full stack application deployed to heroku utilizing Node.js & React.js ',
-    info2: 'Users can sign in, type in their playlist, and comment. Full CRUD on Playlist and Comments',
-    url: 'https://tt-netflix-clone.web.app/',
-    repo: 'https://github.com/tonythomas504/netflix-clone', // if no repo, the button will not show up
-  },
+  // {
+  //   id: nanoid(),
+  //   img: 'VibeCast.jpg',
+  //   title: 'VibeCast',
+  //   info: 'VibeCast is a full stack application deployed to heroku utilizing Node.js & React.js ',
+  //   info2: 'Users can sign in, type in their playlist, and comment. Full CRUD on Playlist and Comments',
+  //   url: 'https://tt-netflix-clone.web.app/',
+  //   repo: 'https://github.com/tonythomas504/netflix-clone', // if no repo, the button will not show up
+  // },
   {
     id: nanoid(),
     img: 'expenseTracker.jpeg',

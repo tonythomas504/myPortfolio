@@ -19,10 +19,10 @@ export const heroData = {
 // ABOUT DATA
 export const aboutData = {
   img: 'profile.jpg',
-  paragraphOne: `Hi I'm Tony Thomas. I'm a multi-talented software engineer, looking for a full stack or front-end role. I completed the Eleven Fifty Academy Full Stack Web Development bootcamp with 500+ hours of real world coding expereince.`,
-  paragraphTwo: `Fueled by high energy, endless creativity and need to innovate. Coding is for me. I'm easily inspired and love to follow my fascinations. I'm never satisfied with ideas. Instead I have an almost impulsive need to act on creating them. I'm passionate, love to win, expressive, and love to work in a team environment.`,
-  paragraphThree: `I'm married to my beautiful wife Sydney, and we live in Indinapolis with our labradoodle Dexter. In my free time I love to read, workout with my wife, watch movies, play board games, and watch sports.`,
-  resume: 'https://docs.google.com/document/d/1ncpp6tSQ_ApV8iAjIdvHjx4PLiPGWc3ExS0eDEAaKFk/edit?usp=sharing', // if no resume, the button will not show up
+  paragraphOne: `Hi I'm Tony Thomas. I'm a multi-talented software engineer, looking for a full stack or front-end role. My core skills include React, JavaScript, Node.js, CSS, and HTML. I always strive to learn about the newest technologies and frameworks, so I would make a great addition to any team.`,
+  paragraphTwo: `Fueled by high energy, endless creativity and need to innovate. I'm easily inspired and love to follow my fascinations. Never satisfied with idea,instead, I have an almost impulsive need to act on creating them. I'm passionate, love to win, expressive, and love to work in a team environment.`,
+  paragraphThree: `Married to my beautiful wife Sydney, and we live in Indinapolis with our labradoodle Dexter. In my free time I love to read, workout with my wife, watch movies, play board games, and watch sports.`,
+  resume: 'https://docs.google.com/document/d/17c5m10Eh3hfE0316oUHWN5pdQ7pEJV9MIlV-W1PO-W0/edit?usp=sharing', // if no resume, the button will not show up
 };
 
 // PROJECTS DATA

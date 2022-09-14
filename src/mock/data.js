@@ -29,22 +29,6 @@ export const aboutData = {
 export const projectsData = [
   {
     id: nanoid(),
-    img: 'Spotify-Logo.png',
-    title: 'Spotify-Clone',
-    info: 'A Spotify-Clone built using React.js, Spotify API, Context API(Redux), Material UI, flexbox, user authentication and deployed with Firebase',
-    url: 'https://tt-spotify-clone.web.app/',
-    repo: 'https://github.com/tonythomas504/spotify-clone', // if no repo, the button will not show up
-  },
-  {
-    id: nanoid(),
-    img: 'Netflix-new-icon.png',
-    title: 'Netflix-Clone',
-    info: 'A Netflix-Clone built using React.js, TMDBs API, and deployed with Firebase',
-    url: 'https://tt-netflix-clone.web.app/',
-    repo: 'https://github.com/tonythomas504/netflix-clone', // if no repo, the button will not show up
-  },
-  {
-    id: nanoid(),
     img: 'project.jpg',
     title: 'MovieView',
     info: 'MovieView is a full stack application deployed to heroku utilizing Node.js & React.js',

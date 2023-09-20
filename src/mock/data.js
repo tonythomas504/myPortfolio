@@ -3,7 +3,7 @@ import { nanoid } from 'nanoid';
 
 // HEAD DATA
 export const headData = {
-  title: 'Tony Thomas | Software Engineer', // e.g: 'Name | Developer'
+  title: 'Tony Thomas | Web Analytics Engineer', // e.g: 'Name | Developer'
   lang: '', // e.g: en, es, fr, jp
   description: '', // e.g: Welcome to my website
 };
@@ -11,7 +11,7 @@ export const headData = {
 // HERO DATA
 export const heroData = {
   title: 'Tony Thomas',
-  name: '| Software Engineer',
+  name: '| Web Analytics Engineer',
   subtitle: '',
   cta: '',
 };
@@ -19,32 +19,22 @@ export const heroData = {
 // ABOUT DATA
 export const aboutData = {
   img: 'profile.jpg',
-  paragraphOne: `Hi I'm Tony Thomas. I'm a multi-talented software engineer, looking for a full stack or front-end role. My core skills include React, JavaScript, Node.js, CSS, and HTML. I always strive to learn about the newest technologies and frameworks, so I would make a great addition to any team.`,
+  paragraphOne: `Hi I'm Tony Thomas. I'm an experience front-end developer who specializes in web anlaytics and building responsive web applications. I have extensive in knowledge in A/B testing, Google Analytics, data visualization, cross funcitonally leading teams, designing with the user experience in mind, and crafting accesible applications`,
   paragraphTwo: `Fueled by high energy, endless creativity and need to innovate. I'm easily inspired and love to follow my fascinations. Never satisfied with idea,instead, I have an almost impulsive need to act on creating them. I'm passionate, love to win, expressive, and love to work in a team environment.`,
   paragraphThree: `Married to my beautiful wife Sydney, and we live in Indinapolis with our labradoodle Dexter. In my free time I love to read, workout with my wife, watch movies, play board games, and watch sports.`,
-  resume: 'https://docs.google.com/document/d/17c5m10Eh3hfE0316oUHWN5pdQ7pEJV9MIlV-W1PO-W0/edit?usp=sharing', // if no resume, the button will not show up
+ // if no resume, the button will not show up
 };
 
 // PROJECTS DATA
 export const projectsData = [
   {
     id: nanoid(),
-    img: 'project.jpg',
-    title: 'MovieView',
-    info: 'MovieView is a full stack application deployed to heroku utilizing Node.js & React.js',
-    info2: 'Users can rate and see the latest films.',
-    url: 'https://nas-movieview-client.herokuapp.com/',
-    repo: 'https://github.com/derek101225/blueBadgeClient', // if no repo, the button will not show up
+    img: 'Netflix-new-icon.png',
+    title: 'Netflix-Clone',
+    info: 'A Netflix-Clone built using React.js, TMDBs API, and deployed with Firebase',
+    url: 'https://tt-netflix-clone.web.app',
+    repo: 'https://github.com/tonythomas504/netflix-clone', // if no repo, the button will not show up
   },
-  // {
-  //   id: nanoid(),
-  //   img: 'VibeCast.jpg',
-  //   title: 'VibeCast',
-  //   info: 'VibeCast is a full stack application deployed to heroku utilizing Node.js & React.js ',
-  //   info2: 'Users can sign in, type in their playlist, and comment. Full CRUD on Playlist and Comments',
-  //   url: 'https://tt-netflix-clone.web.app/',
-  //   repo: 'https://github.com/tonythomas504/netflix-clone', // if no repo, the button will not show up
-  // },
   {
     id: nanoid(),
     img: 'expenseTracker.jpeg',
@@ -78,7 +68,7 @@ export const footerData = {
     {
       id: nanoid(),
       name: 'linkedin',
-      url: 'https://www.linkedin.com/in/tony-thomas-ab8966a5/',
+      url: 'https://www.linkedin.com/in/tony-thomas21/',
     },
     {
       id: nanoid(),

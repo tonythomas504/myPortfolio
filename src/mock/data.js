@@ -29,14 +29,6 @@ export const aboutData = {
 export const projectsData = [
   {
     id: nanoid(),
-    img: 'Netflix-new-icon.png',
-    title: 'Netflix-Clone',
-    info: 'A Netflix-Clone built using React.js, TMDBs API, and deployed with Firebase',
-    url: 'https://tt-netflix-clone.web.app',
-    repo: 'https://github.com/tonythomas504/netflix-clone', // if no repo, the button will not show up
-  },
-  {
-    id: nanoid(),
     img: 'expenseTracker.jpeg',
     title: 'Expense Tracker',
     info: 'I created an expense tracker utiilizing React.js & React Hooks',

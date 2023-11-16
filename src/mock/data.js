@@ -19,9 +19,9 @@ export const heroData = {
 // ABOUT DATA
 export const aboutData = {
   img: 'profile.jpg',
-  paragraphOne: `Hi I'm Tony Thomas. I'm an experience front-end developer who specializes in web anlaytics and building responsive web applications. I have extensive in knowledge in A/B testing, Google Analytics, data visualization, cross funcitonally leading teams, designing with the user experience in mind, and crafting accesible applications`,
-  paragraphTwo: `Fueled by high energy, endless creativity and need to innovate. I'm easily inspired and love to follow my fascinations. Never satisfied with idea,instead, I have an almost impulsive need to act on creating them. I'm passionate, love to win, expressive, and love to work in a team environment.`,
-  paragraphThree: `Married to my beautiful wife Sydney, and we live in Indinapolis with our labradoodle Dexter. In my free time I love to read, workout with my wife, watch movies, play board games, and watch sports.`,
+  paragraphOne: `Hi I'm Tony Thomas. I'm an experienced front-end developer who specializes in web anlaytics and building responsive web applications. I have extensive knowledge in A/B testing, Google Analytics, data visualization, cross funcitonally leading teams, designing with the user experience in mind, and crafting accesible applications.`,
+  paragraphTwo: `Fueled by high energy, endless creativity and need to innovate. I'm easily inspired and love to follow my fascinations. I'm passionate, love to win, expressive, and love to work in a team environment.`,
+  paragraphThree: `I'm married to my beautiful wife Sydney, and we live in Indinapolis with our labradoodle Dexter. In my free time I love to read, workout, watch movies, play board games, and watch sports.`,
  // if no resume, the button will not show up
 };
 
